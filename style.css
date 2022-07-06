@@ -34,3 +34,66 @@ body {
     padding: 12px;
     border-radius: 5px;
 }
+
+.donate {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.amount {
+    text-align: center;
+    display: flex;
+    padding-left: 300px;
+    padding-right: 300px;
+    font-weight: lighter;
+}
+
+#gray {
+    margin: 20px;
+    background-color: aliceblue;
+    padding: 50px;
+    border-radius: 5px;
+}
+
+#select {
+    margin: 20px;
+    background-color: rgb(247, 210, 196);
+    padding: 50px;
+    border-radius: 5px;
+    border: 3px solid crimson;
+}
+
+.plan {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.idea {
+    display: flex;
+    margin: 50px 60px;
+}
+
+.food {
+    margin: 10px;
+    background-color: rgb(205, 227, 246);
+    padding: 30px 15px 30px 15px;
+    margin-right: 10px;
+    font-weight: 100;
+    border-radius: 5px;
+}
+
+.shelter {
+    margin: 10px;
+    background-color: rgb(244, 151, 151);
+    padding: 30px 15px 30px 15px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+.education {
+    margin: 10px;
+    background-color: blanchedalmond;
+    padding: 30px 15px 30px 15px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
