@@ -112,7 +112,10 @@ body {
     text-align: center;
     background-color: rgb(238, 216, 163);
     padding: 50px;
-    margin: 100px 400px;
+    margin: 80px 400px;
+    height: 100px;
+    padding-top: 100px;
+
 }
 
 .mail {
@@ -120,7 +123,7 @@ body {
     height: 38px;
     width: 200px;
     margin: 0;
-    padding-left: 50px;
+    padding-left: 10px;
     border-radius: 5px;
     border: 0;
 }
@@ -132,4 +135,6 @@ body {
     height: 40px;
     color: white;
     border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
