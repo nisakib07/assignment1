@@ -55,6 +55,23 @@ body {
     border-radius: 5px;
 }
 
+.other {
+    text-align: center;
+}
+
+.other-amount {
+    border: 0px solid;
+    margin-top: 40px;
+    padding-left: 300px;
+    padding-right: 300px;
+    border-bottom-width: 1px;
+    text-align: center;
+    font-weight: lighter;
+}
+
+
+
+
 #select {
     margin: 20px;
     background-color: rgb(247, 210, 196);
@@ -66,6 +83,7 @@ body {
 .plan {
     text-align: center;
     margin-top: 80px;
+
 }
 
 .idea {
@@ -103,9 +121,27 @@ body {
 
 }
 
+.more-about-them {
+    display: flex;
+}
+
+.para {
+    width: 30%;
+    padding-right: 20px;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+
+.pic {
+    width: 50%;
+    margin-left: 100px;
+    border-radius: 5px;
+
+}
+
 .update {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 .input {
@@ -137,4 +173,20 @@ body {
     border-radius: 5px;
     padding-left: 30px;
     padding-right: 30px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.humble {
+    font-family: 'Lobster', cursive;
+    color: #ff5959;
+    font-size: 45px;
+}
+
+.do {
+    color: white;
 }
