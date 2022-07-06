@@ -170,7 +170,7 @@ body {
     margin-left: -10px;
     height: 40px;
     color: white;
-    border-radius: 5px;
+    border-radius: 0px 5px 5px 0px;
     padding-left: 30px;
     padding-right: 30px;
 }
