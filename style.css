@@ -102,3 +102,34 @@ body {
     border-radius: 5px;
 
 }
+
+.update {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.input {
+    text-align: center;
+    background-color: rgb(238, 216, 163);
+    padding: 50px;
+    margin: 100px 400px;
+}
+
+.mail {
+    background-color: rgb(204, 200, 200);
+    height: 38px;
+    width: 200px;
+    margin: 0;
+    padding-left: 50px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.sub {
+    background-image: linear-gradient(tomato, rgb(255, 0, 55));
+    border: 0;
+    margin-left: -10px;
+    height: 40px;
+    color: white;
+    border-radius: 5px;
+}
